@@ -1,5 +1,4 @@
 <?php
-print_r(phpinfo());exit;
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
